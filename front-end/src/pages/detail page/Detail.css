@@ -1,0 +1,27 @@
+.detail-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100vw;
+}
+
+.center-item{
+    width: 60vw;
+    background-color: #323232;
+    border-radius: .8rem;
+    margin: 2rem 0;
+}
+
+.heading-title{
+    color: white;
+    text-transform: capitalize;
+    color: white;
+    margin: 4rem 0;
+}
+
+.heading-description{
+    color: white;
+    text-transform: capitalize;
+    margin: 2rem 0;
+}
